@@ -17,4 +17,3 @@ public class Cles {
         return matricule + "_" + nom;
     }
 }
-}
