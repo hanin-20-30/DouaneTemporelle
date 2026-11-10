@@ -1,6 +1,6 @@
 package com.example.douanetemporelle;
 
-    public class Cles {
+public class Cles {
 
     // 1) آخر 4 أرقام من بطاقة الطالب
     public static final String MATRICULE = "7659";
@@ -14,6 +14,7 @@ package com.example.douanetemporelle;
 
     // 3) دالة ثابتة تبني المفتاح: الرقم + "_" + الاسم
     public static String cle(String matricule, String nom) {
-    return matricule + "_" + nom;
+        return matricule + "_" + nom;
     }
-    }
+}
+}
