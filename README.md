@@ -5,7 +5,7 @@ Enseignant : Mohamed Nidhal Jelassi
 
 ## Membres du groupe
 
-- Ouertani Hanin (initiales : ho, matricule : 6823) LIEN GIT: ithub.com/hanin-20-30/DouaneTemporelle/edit/main/README.md
+- Ouertani Hanin (initiales : ho, matricule : 6823) LIEN GIT: https://github.com/hanin-20-30/DouaneTemporelle
 - Marweni Chiraz (initiales : cm, matricule : 7659) LIEN GIT: https://github.com/chirazmarouani-beep/DouaneTemporelle01
 
 ## Description
